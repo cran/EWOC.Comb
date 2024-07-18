@@ -1,0 +1,13 @@
+c003c9927b2a49cf3cc5412dbee659dc *DESCRIPTION
+5eafae2f328999bdc4109782c3c19927 *NAMESPACE
+adb8e27d89bc5c4a40771288b3a01838 *R/EWOC2_functions.r
+a78680852e8914d0a66ea3a1c3e873ac *build/partial.rdb
+a05580b980d05d10db28ca4081ad31dc *man/EWOC2-internal.Rd
+497db4062731762ad6cb07598f1caead *man/EWOC2-package.Rd
+3a5b69dedf6a65816f1c34338e9cd158 *man/ewoc2.Rd
+0069ff546c553ac5ca3f78aadce14204 *man/ewoc2simu.Rd
+89ec402a680d04cc2dfe413239fcf96b *man/mtdcurve.Rd
+93e6beda032eacdf9ccd46d28aec6325 *man/pdlt.Rd
+0d514b8bd0a99c85de3cdcb328b4f55f *man/plot.ewoc2simu.Rd
+eba02081a3a93e2948d80d945426f272 *man/print.ewoc2.Rd
+f29aeb5d62f481815dcf9b05fd7605d5 *man/print.ewoc2simu.Rd
